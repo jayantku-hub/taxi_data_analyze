@@ -1,1 +1,0 @@
-avg_cc_tip = df[df['payment_type']==1]['tip_amaount'].mean()
